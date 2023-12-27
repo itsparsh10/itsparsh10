@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sparsh Sharma</h1>
 <h3 align="center"> A passionate developer from India </h3>
 
-<p align="left"> <img src="[https://komarev.com/ghpvc/?username=itsparsh10&label=Profile views&color=0e75b6&style=flat](https://komarev.com/ghpvc/?username=itsparsh10&label=Profile%20views&color=0e75b6&style=flat)" alt="itsparsh10" /> </p>
 
-- 🌱 I’m currently learning **B - Tech Cse**
-- 📝 I regularly write articles on https://www.linkedin.com/in/sparsh-sharma-9ab198284/
-- 📫 How to reach me : [2023.sparshs@isu.ac.in](mailto:2023.sparshs@isu.ac.in)
 
-<h3 align="left">Connect with me:</h3>
+- 🌍 I'm based in India
+- ✉️ You can contact me at :- [sparshvishan@gmail.com](mailto:sparshvishan@gmail.com)
+- 🧠 I'm learning :- 1 St Semester In Collage
+- 🤝 I'm open to collaborating on Algorithms, AI 🤖 , and Software Development
+<h3 align="left">Socials:</h3>
 <p align="left">
 <a href="https://twitter.com/sparshshar13992" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sparshshar13992" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sparsh-sharma-9ab198284" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sparsh-sharma-9ab198284" height="30" width="40" /></a>
