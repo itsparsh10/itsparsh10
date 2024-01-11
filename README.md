@@ -1,6 +1,6 @@
 ![logo](https://github.com/itsparsh10/itsparsh10/blob/main/github%20banner.png)
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=🙏 Hi+👋+,+I'm+Sparsh +Sharma+!;+I'm+Jeevan+Naidu!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=🙏+Hi+👋+,+I'm+Sparsh +Sharma+!;+I'm+Jeevan+Naidu!;" />
 </h1>
 <h1 align="center">Hi 👋, I'm Sparsh Sharma</h1>
 <h2 align="center"> A passionate developer from India </h2>
@@ -8,12 +8,16 @@
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 
-<h3 align="left"> <img src="[https://komarev.com/ghpvc/?username=itsparsh10&label=Profile views&color=0e75b6&style=flat](https://komarev.com/ghpvc/?username=itsparsh10&label=Profile%20views&color=0e75b6&style=flat)" alt="itsparsh10" /> </h3>
 
+<h4>
+    
 - 🌱 I’m currently learning :- B - Tech Cse**
+
 - 📝 I regularly write articles on :- https://www.linkedin.com/in/sparsh-sharma-9ab198284/
+
 - 📫 How to reach me :- [2023.sparshs@isu.ac.in]
-  
+</h4>
+<h3 align="left">Socials:</h3>
 <p align="left">
 <a href="https://twitter.com/sparshshar13992" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sparshshar13992" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sparsh-sharma-9ab198284" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sparsh-sharma-9ab198284" height="30" width="40" /></a>
