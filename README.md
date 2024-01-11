@@ -1,4 +1,7 @@
 ![logo](https://github.com/itsparsh10/itsparsh10/blob/main/github%20banner.png)
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=🙏+Namō+Namaḥ!;+I'm+Jeevan+Naidu!;" />
+</h1>
 <h1 align="center">Hi 👋, I'm Sparsh Sharma</h1>
 <h2 align="center"> A passionate developer from India </h2>
 
