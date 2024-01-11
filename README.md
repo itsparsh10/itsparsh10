@@ -14,7 +14,7 @@
 
 <h4>
     
-- 🌱 I’m currently learning :- B - Tech Cse**
+- 🌱 I’m currently learning :- B - Tech Cse
 
 - 📝 I regularly write articles on :- https://www.linkedin.com/in/sparsh-sharma-9ab198284/
 
