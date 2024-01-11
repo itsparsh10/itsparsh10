@@ -5,7 +5,7 @@
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 
-<p align="left"> <img src="[https://komarev.com/ghpvc/?username=itsparsh10&label=Profile views&color=0e75b6&style=flat](https://komarev.com/ghpvc/?username=itsparsh10&label=Profile%20views&color=0e75b6&style=flat)" alt="itsparsh10" /> </p>
+<h3 align="left"> <img src="[https://komarev.com/ghpvc/?username=itsparsh10&label=Profile views&color=0e75b6&style=flat](https://komarev.com/ghpvc/?username=itsparsh10&label=Profile%20views&color=0e75b6&style=flat)" alt="itsparsh10" /> </h3>
 
 - 🌱 I’m currently learning **B - Tech Cse**
 - 📝 I regularly write articles on https://www.linkedin.com/in/sparsh-sharma-9ab198284/
