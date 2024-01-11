@@ -1,3 +1,4 @@
+![logo](https://github.com/itsparsh10/itsparsh10/blob/main/github%20banner.png)
 <h1 align="center">Hi 👋, I'm Sparsh Sharma</h1>
 <h2 align="center"> A passionate developer from India </h2>
 
