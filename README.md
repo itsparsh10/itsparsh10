@@ -35,9 +35,10 @@
 
 
 # 📊 GitHub Stats:
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=itsparsh10&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=itsparsh10&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=itsparsh10&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
