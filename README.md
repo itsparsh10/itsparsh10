@@ -46,8 +46,7 @@
 
 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=itsparsh10&theme=discord&no-frame=false&no-bg=true&margin-w=4)
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=itsparsh10&limit=5&theme=juicyfresh&combine_all_yearly_contributions=true)
