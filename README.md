@@ -14,7 +14,7 @@
 
 
 
-<img align="right" alt="cooding" width="300" src="https://github.com/itsparsh10/itsparsh10/blob/main/piccc.png">
+<img align="right" alt="coding" width="300" height="250" src="https://github.com/itsparsh10/itsparsh10/blob/main/git-header.svg">
 
 
 
