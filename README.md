@@ -31,16 +31,29 @@
 - 📫 **How to reach me** :- [2023.sparshs@isu.ac.in]
 </h4>
 <br>
-<h3 align="left">Socials:</h3>
-<p align="left">
+<h3 align="center">Socials:</h3>
+<p align="center">
 <a href="https://linkedin.com/in/sparsh-sharma-9ab198284" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sparsh-sharma-9ab198284" height="30" width="40" /></a>
 <a href="https://twitter.com/sparshshar13992" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sparshshar13992" height="30" width="40" /></a>
 <a href="https://instagram.com/sparsh.10_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sparsh.10_" height="30" width="40" /></a>
    
 </p>
 <br>
-<h3 align="left">Languages and Tools:</h3>
- <p align="left"><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="[https://www.python.org](https://www.python.org/)" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <img src="https://seeklogo.com/images/S/scratch-logo-B13B10E544-seeklogo.com.png" alt="python" width="40" height="40"/> </a> <img src="https://play-lh.googleusercontent.com/rW4cFCs9COZhpTYlW9x9OL2lKAy9kkPCTEfEUliybKOiXLsfi2BlOWyvZolbCiszcj4" alt="Appsheet" width="40" height="40"/>
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
+    <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="60" height="60" />
+    <img src="https://skillicons.dev/icons?i=git,github,c,vscode,blender,figma,wordpress,html,css,js&theme=light" />
+    <img src="https://sp-ao.shortpixel.ai/client/to_auto,q_lossless,ret_img,w_300,h_300/https://fullsteam.mit.edu/wp-content/uploads/2020/03/ScratchLogo-300x300.png" alt="icon" width="50" height="50" />
+    <img src="https://media.licdn.com/dms/image/D5612AQGny7xsSSLQ-A/article-cover_image-shrink_600_2000/0/1699480666080?e=2147483647&v=beta&t=3jmL98hJa2MwOmEPsQZ9t3zAH3CjBLEIL-ugNdJ31tY" width="50" height="50">
+    <img src="https://www.appsheet.com/Content/img/material/appsheet_rebrand_logo.svg" width="50" height="50">
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968753.png" alt="icon" width="50" height="50">
+  </a>
+
+</div>
+</p>
+<br><br>
 
 
 
