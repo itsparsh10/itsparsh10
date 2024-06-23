@@ -7,12 +7,17 @@
 <h1 align="center">Hi 👋, I'm Sparsh Sharma</h1>
 <h2 align="center">A passionate developer from India</h2>
 
-<img align="right" alt="coding" width="300" src="https://github.com/itsparsh10/itsparsh10/blob/main/git-header.svg">
 
-<p>🔭 I am passionate about AI/ML and learning new technologies</p>
-<p>🌱 I’m currently learning React and other front-end related languages</p>
-<p>👨‍💻 I am a first-year B.Tech student</p>
-<p>😎 Student Ambassador at LetsUpgrade</p>
+
+<div>
+    <img align="right" alt="coding" width="500" src="https://github.com/itsparsh10/itsparsh10/blob/main/git-header.svg">
+    <p>🔭 I am passionate about AI/ML and learning new technologies</p>
+    <p>🌱 I’m currently learning React and other front-end related languages</p>
+    <p>👨‍💻 I am a first-year B.Tech student</p>
+    <p>😎 Student Ambassador at LetsUpgrade</p>
+</div>
+
+<br>
 
 <h3 align="center">Socials:</h3>
 <p align="center">
@@ -42,6 +47,39 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
+
+<br>
+
+
+<table border="1" style="width: 100%;">
+  <tr>
+    <th>Projects</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Jeevan-04/Nirukti">NIRUKTI</a></td>
+    <td>
+      NIRUKTI is more than just an app; it's an immersive experience designed to introduce you to the vibrant tapestry of Bharat's culture, history, and heritage. From the colorful landscapes to the soul-stirring music, from the intricate art forms to the rich scientific and literary traditions, NIRUKTI is your one-stop destination to dive deep into the treasures of Bharat.
+    </td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Jeevan-04/Catalyst">CATALYST</a></td>
+    <td>
+      CATALYST is a revolutionary application that acts as your personal genie for all your literary and cinematic desires. It goes beyond simple recommendation engines, delving deep into your emotions and preferences to curate a treasure trove of captivating books and movies perfectly tailored to your mood and taste. No more endless scrolling.
+    </td>
+  </tr>
+  <tr>
+    <td ><a href="https://github.com/Jeevan-04/Comicmaker">COMICVERSE</a></td>
+    <td>
+      An AI-powered platform that generates comic books featuring compelling stories and vibrant imagery. Additionally, it fosters a community of comic enthusiasts and authors, nurturing a diverse world of storytelling.
+    </td>
+  </tr>
+</table>
+
+<br>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+
 # 📊 GitHub Stats:
 
 <p align="center">
@@ -63,3 +101,7 @@
         <img src="https://readme-daily-quotes.vercel.app/api?theme=vue" alt="Github Readme Daily Quotes">
     </a>
 </div>
+
+
+
+
