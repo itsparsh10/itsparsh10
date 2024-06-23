@@ -45,15 +45,15 @@
 # 📊 GitHub Stats:
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsparsh10&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </p>
 
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=itsparsh10&bg_color=ffffff&color=0042aa&line=b88504&point=0061ff&area=true&area_color=f2c33f&hide_border=true" width="500" height="250" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsparsh10&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact" style="height: 200px;" /> 
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=itsparsh10&theme=default" />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=itsparsh10&theme=default" />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=itsparsh10&theme=default" />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=itsparsh10&theme=default&utcOffset=5.3" />
+
 </div>
 
 <div align="center">
