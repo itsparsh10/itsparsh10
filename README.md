@@ -2,7 +2,10 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=itsparsh10"/>
 
 
-![logo](https://github.com/itsparsh10/itsparsh10/blob/main/header_1%20(1).png)
+<div style="text-align: center;">
+    <img alt="coding" height=""  width="150000" src="https://github.com/itsparsh10/itsparsh10/blob/main/header_1%20(1).png">
+</div>
+
 
 <h1 align="center">
    
