@@ -58,9 +58,9 @@
     <th>Description</th>
   </tr>
   <tr>
-    <td><a href="https://github.com/Jeevan-04/Nirukti">NIRUKTI</a></td>
+    <td><a href="https://github.com/itsparsh10/Python_Project">LEXI-MORPH</a></td>
     <td>
-      NIRUKTI is more than just an app; it's an immersive experience designed to introduce you to the vibrant tapestry of Bharat's culture, history, and heritage. From the colorful landscapes to the soul-stirring music, from the intricate art forms to the rich scientific and literary traditions, NIRUKTI is your one-stop destination to dive deep into the treasures of Bharat.
+      LEXI-MORPH is a versatile Python project designed to transform words into various forms, including synonyms, translations, and definitions. Whether you're a linguistics enthusiast, a student, or a developer looking to enhance your applications with word transformation capabilities, LEXI-MORPH is the perfect tool for you.
     </td>
   </tr>
   <tr>
