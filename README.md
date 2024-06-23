@@ -58,21 +58,21 @@
     <th>Description</th>
   </tr>
   <tr>
-    <td><a href="https://github.com/itsparsh10/Python_Project">LEXI-MORPH</a></td>
+    <td><a href="https://github.com/itsparsh10/Python_Project">Lexi-Morph</a></td>
     <td>
-      LEXI-MORPH is a versatile Python project designed to transform words into various forms, including synonyms, translations, and definitions. Whether you're a linguistics enthusiast, a student, or a developer looking to enhance your applications with word transformation capabilities, LEXI-MORPH is the perfect tool for you.
+      Lexi-Morph is a versatile Python project designed to transform words into various forms, including synonyms, translations, and definitions. Whether you're a linguistics enthusiast, a student, or a developer looking to enhance your applications with word transformation capabilities, Lexi-Morph is the perfect tool for you.
     </td>
   </tr>
   <tr>
-    <td><a href="https://github.com/Jeevan-04/Catalyst">CATALYST</a></td>
+    <td><a href="https://github.com/itsparsh10/Tic-Tac-Toe-React">Tic-Tac-Toe</a></td>
     <td>
-      CATALYST is a revolutionary application that acts as your personal genie for all your literary and cinematic desires. It goes beyond simple recommendation engines, delving deep into your emotions and preferences to curate a treasure trove of captivating books and movies perfectly tailored to your mood and taste. No more endless scrolling.
+     Creating a Tic-Tac-Toe game using React is a great way to practice your React skills and understand the fundamentals of component-based architecture
     </td>
   </tr>
   <tr>
-    <td ><a href="https://github.com/Jeevan-04/Comicmaker">COMICVERSE</a></td>
+    <td ><a href="https://github.com/itsparsh10/App_Sheet_No-Code">BYTE-THRIVE</a></td>
     <td>
-      An AI-powered platform that generates comic books featuring compelling stories and vibrant imagery. Additionally, it fosters a community of comic enthusiasts and authors, nurturing a diverse world of storytelling.
+    BYTETHRIVE is a hackathon management app that streamlines registration, judging, and result announcements. It enhances organizer-judge communication, saving time and promoting collaboration. Your one-stop solution for an immersive hackathon experience.
     </td>
   </tr>
 </table>
