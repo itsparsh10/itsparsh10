@@ -20,7 +20,7 @@
 
 <br>
 
-<h3 align="center">Socials:</h3>
+<h2 align="center">Socials:</h2>
 <p align="center">
     <a href="https://linkedin.com/in/sparsh-sharma-9ab198284" target="_blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sparsh-sharma-9ab198284" height="30" width="40" />
@@ -33,7 +33,7 @@
     </a>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
+<h2 align="center">Languages and Tools:</h2>
 <p align="center">
     <a href="https://skillicons.dev">
         <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" height="50" />
@@ -81,7 +81,7 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 
-<h1 align="center">📊 GitHub Stats </h2>
+<h2 align="center"> GitHub Stats </h2>
 
 <p align="center">
 </p>
