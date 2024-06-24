@@ -81,7 +81,7 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 
-# 📊 GitHub Stats:
+<h1 align="center">📊 GitHub Stats </h2>
 
 <p align="center">
 </p>
