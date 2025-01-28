@@ -14,7 +14,7 @@
     <br>
     <p>🔭 I am passionate about AI and learning new technologies</p>
     <p>🌱 I’m currently learning React and other front-end related language</p>
-    <p>👨‍💻 I am a first-year B.Tech student</p>
+    <p>👨‍💻 I am a Second-year B.Tech student</p>
     <p>😎 Student Ambassador at LetsUpgrade</p>
 </div>
 
